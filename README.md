@@ -2,7 +2,7 @@
 
 A command-line calculator built in Python.
 
-## Features
+## core Features
 - Addition
 - Subtraction
 - Multiplication
